@@ -1,1 +1,1 @@
-"#trivia.api" 
+# trivia.api
